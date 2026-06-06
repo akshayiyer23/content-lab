@@ -1,4 +1,6 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  // No external image domains needed — all data is hardcoded
+}
 
-export default nextConfig;
+export default nextConfig
