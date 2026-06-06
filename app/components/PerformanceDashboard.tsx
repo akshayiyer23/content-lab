@@ -4,17 +4,17 @@ import { useRef, useEffect, useState } from 'react'
 import { motion, useInView } from 'framer-motion'
 
 const row1 = [
-  { value: '925,672', label: 'Best post views', accent: '#6c47ff' },
-  { value: '14,474', label: 'Best post saves', accent: '#ff5c1a' },
-  { value: '8,237', label: 'Best post shares', accent: '#6c47ff' },
-  { value: '4,118', label: 'Organic follows (best post)', accent: '#ff5c1a' },
+  { value: '645,492', label: 'Best post views ("had to do it again")', accent: '#6c47ff' },
+  { value: '29,573', label: 'Total saves across top 5 posts', accent: '#ff5c1a' },
+  { value: '4,630', label: 'Highest follows (single post)', accent: '#6c47ff' },
+  { value: '0.75%', label: 'Highest follow rate (original sound)', accent: '#ff5c1a' },
 ]
 
 const row2 = [
-  { value: '497K', label: 'Avg views (top posts)', accent: '#6c47ff' },
-  { value: '1.8%', label: 'Avg save rate', accent: '#ff5c1a' },
-  { value: '90%+', label: 'Avg non-follower reach', accent: '#6c47ff' },
-  { value: '2,000+', label: 'Avg follows per viral post', accent: '#ff5c1a' },
+  { value: '475K', label: 'Avg views (top 5 posts)', accent: '#6c47ff' },
+  { value: '2,936', label: 'Avg follows per viral post', accent: '#ff5c1a' },
+  { value: '101x', label: 'More saves: niche vs broad hashtags', accent: '#6c47ff' },
+  { value: '2,344%', label: 'View lift: open loop vs descriptive caption', accent: '#ff5c1a' },
 ]
 
 function StatCard({

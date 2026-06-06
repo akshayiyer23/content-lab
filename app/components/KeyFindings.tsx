@@ -8,34 +8,34 @@ const findings = [
   {
     icon: '⚡',
     accent: '#6c47ff',
-    title: '3-Word Captions = 40x More Reach',
-    stat: '645K vs 16K views',
+    title: 'Open Loop Captions Drive 92x More Saves',
+    stat: '16K vs 403K views — same creator, same angle',
     detail:
-      'Minimal captions with trending sounds consistently outperform descriptive captions by 40x on average.',
-  },
-  {
-    icon: '🔊',
-    accent: '#ff5c1a',
-    title: 'Trending Sounds Drive 90%+ Non-Follower Reach',
-    stat: '90.9% non-follower views',
-    detail:
-      'Posts using trending audio reach new audiences at 90%+ rate vs algorithm-dependent distribution.',
+      'Ambiguous 3–5 word captions that create curiosity gaps outperform descriptive captions by 2,344% in views and 9,171% in saves. Same niche, same creator, only the caption changed.',
   },
   {
     icon: '#',
-    accent: '#6c47ff',
-    title: 'Niche Hashtags Outperform Broad Tags',
-    stat: '8.9% follower ratio on best posts',
+    accent: '#ff5c1a',
+    title: 'Niche Hashtags = 101x More Saves',
+    stat: '63 saves vs 6,045 avg saves per post',
     detail:
-      'Drum-specific hashtags (#ghostnotes, #snare, #drumloop) drive higher saves and shares than broad music tags.',
+      'Drum-specific hashtags (#ghostnotes #snare #drumloop) reach highly engaged audiences that save at 101x higher rates than broad genre tags like #rnbmusic #viral #trapsoul.',
+  },
+  {
+    icon: '🎵',
+    accent: '#6c47ff',
+    title: 'Original Sound Can Match Trending Sound',
+    stat: '613K views · 0.75% follow rate — no trending audio',
+    detail:
+      '"step by step" used a self-recorded original sound and achieved the highest follow rate of all 6 posts at 0.75%. Quality content and open loop captions can compensate for non-trending audio.',
   },
   {
     icon: '🔖',
     accent: '#ff5c1a',
-    title: 'Saves Predict Algorithmic Boost',
-    stat: '14,474 saves on top post',
+    title: 'Save Rate Predicts Growth Better Than Likes',
+    stat: 'Every 1,000 saves = ~526 follows on average',
     detail:
-      'Posts with high save rates get pushed to non-followers at 2-3x the rate of like-heavy posts.',
+      'Save rate is the single strongest predictor of algorithmic distribution and follower conversion across all 6 posts. Design content people want to return to, not just react to.',
   },
 ]
 
@@ -85,7 +85,7 @@ export default function KeyFindings() {
             </h3>
 
             <div
-              className="font-mono text-2xl font-bold mb-4"
+              className="font-mono text-lg font-bold mb-4 leading-snug"
               style={{ color: finding.accent }}
             >
               {finding.stat}

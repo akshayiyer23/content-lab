@@ -22,9 +22,9 @@ const tickerItems = [
 
 const stats = [
   { value: '90K+', label: 'Total Audience' },
-  { value: '150K', label: 'Avg Views (top posts)' },
-  { value: '4', label: 'Experiments Documented' },
-  { value: '3-word', label: '#1 Finding: captions' },
+  { value: '2.1M+', label: 'Total Views (top 5 posts)' },
+  { value: '4', label: 'Documented Experiments' },
+  { value: '645K', label: 'Best Single Post Views' },
 ]
 
 function CountUp({ target, suffix = '' }: { target: string; suffix?: string }) {
