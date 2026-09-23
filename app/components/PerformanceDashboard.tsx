@@ -13,7 +13,7 @@ const row1 = [
 const row2 = [
   { value: '475K', label: 'Avg views (top 5 posts)', accent: '#6c47ff' },
   { value: '2,936', label: 'Avg follows per viral post', accent: '#ff5c1a' },
-  { value: '101x', label: 'More saves: niche vs broad hashtags', accent: '#6c47ff' },
+  { value: '96x', label: 'More saves: niche vs broad hashtags', accent: '#6c47ff' },
   { value: '2,344%', label: 'View lift: open loop vs descriptive caption', accent: '#ff5c1a' },
 ]
 
