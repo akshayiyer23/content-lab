@@ -1,6 +1,6 @@
 # Content Lab — by Akshay Iyer
 
-A public-facing A/B testing and content experiment dashboard documenting real experiments run across a 90K+ creator audience on Instagram and TikTok.
+A public-facing A/B testing and content experiment dashboard documenting real experiments run across a 100K+ creator audience on Instagram and TikTok.
 
 ---
 
