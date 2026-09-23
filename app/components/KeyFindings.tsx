@@ -16,10 +16,10 @@ const findings = [
   {
     icon: '#',
     accent: '#ff5c1a',
-    title: 'Niche Hashtags = 101x More Saves',
+    title: 'Niche Hashtags = 96x More Saves',
     stat: '63 saves vs 6,045 avg saves per post',
     detail:
-      'Drum-specific hashtags (#ghostnotes #snare #drumloop) reach highly engaged audiences that save at 101x higher rates than broad genre tags like #rnbmusic #viral #trapsoul.',
+      'Drum-specific hashtags (#ghostnotes #snare #drumloop) reach highly engaged audiences that save at 96x higher rates than broad genre tags like #rnbmusic #viral #trapsoul.',
   },
   {
     icon: '🎵',
