@@ -21,7 +21,7 @@ const tickerItems = [
 ]
 
 const stats = [
-  { value: '90K+', label: 'Total Audience' },
+  { value: '100K+', label: 'Total Audience' },
   { value: '2.1M+', label: 'Total Views (top 5 posts)' },
   { value: '4', label: 'Documented Experiments' },
   { value: '645K', label: 'Best Single Post Views' },
@@ -92,7 +92,7 @@ export default function Hero() {
           className="inline-flex items-center gap-2 border border-purple/40 rounded-full px-4 py-1.5 mb-10 font-mono text-xs text-purple"
         >
           <span className="w-1.5 h-1.5 rounded-full bg-orange animate-pulse" />
-          90K+ audience · Instagram &amp; TikTok · Updated weekly
+          100K+ audience · Instagram &amp; TikTok · Updated weekly
         </motion.div>
 
         {/* Hero text */}
