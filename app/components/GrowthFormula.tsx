@@ -22,7 +22,7 @@ const steps = [
     num: '03',
     label: 'Niche Hashtags',
     detail: 'Reach high-intent, save-ready audience',
-    metric: '101x more saves',
+    metric: '96x more saves',
     color: '#a855f7',
   },
   {
