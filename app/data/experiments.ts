@@ -126,7 +126,7 @@ export const experiments: Experiment[] = [
       '"whatever comes to mind" — broad hashtags (#rambo #trapsoul #rnbmusic #rnbinstagram #viral) with brand tags (@yamahadrumsofficial @zildjiancompany @vicfirth) · 16,488 views · 63 saves · 0.38% save rate',
     variantDesc:
       'Posts 1–5 — niche drum hashtags (#drums #drummer #snare #ghostnotes #drumloop) · average 475K views · avg 6,045 saves per post',
-    result: '+10,038% more saves per post · Niche hashtags drove 101x more saves than broad tags',
+    result: '+9,495% more saves per post · Niche hashtags drove 96x more saves than broad tags',
     keyLearning:
       'Broad hashtags reach large passive audiences who scroll past. Niche hashtags reach small highly-engaged audiences who save, follow, and return. Save rate is a stronger growth signal than raw reach.',
     whatNext: 'Does mixing 3 niche + 2 broad hashtags outperform 5 niche-only hashtags? Isolate the hashtag contribution from sound and caption.',
